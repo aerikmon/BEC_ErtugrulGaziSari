@@ -1,0 +1,13 @@
+C:\Users\aerikmon\Desktop\BLG 252E OOP\ErtugrulGaziSari_BEChallenge\bin\Debug\netcoreapp3.1\ErtugrulGaziSari_BEChallenge.exe
+C:\Users\aerikmon\Desktop\BLG 252E OOP\ErtugrulGaziSari_BEChallenge\bin\Debug\netcoreapp3.1\ErtugrulGaziSari_BEChallenge.deps.json
+C:\Users\aerikmon\Desktop\BLG 252E OOP\ErtugrulGaziSari_BEChallenge\bin\Debug\netcoreapp3.1\ErtugrulGaziSari_BEChallenge.runtimeconfig.json
+C:\Users\aerikmon\Desktop\BLG 252E OOP\ErtugrulGaziSari_BEChallenge\bin\Debug\netcoreapp3.1\ErtugrulGaziSari_BEChallenge.runtimeconfig.dev.json
+C:\Users\aerikmon\Desktop\BLG 252E OOP\ErtugrulGaziSari_BEChallenge\bin\Debug\netcoreapp3.1\ErtugrulGaziSari_BEChallenge.dll
+C:\Users\aerikmon\Desktop\BLG 252E OOP\ErtugrulGaziSari_BEChallenge\bin\Debug\netcoreapp3.1\ErtugrulGaziSari_BEChallenge.pdb
+C:\Users\aerikmon\Desktop\BLG 252E OOP\ErtugrulGaziSari_BEChallenge\obj\Debug\netcoreapp3.1\ErtugrulGaziSari_BEChallenge.csprojAssemblyReference.cache
+C:\Users\aerikmon\Desktop\BLG 252E OOP\ErtugrulGaziSari_BEChallenge\obj\Debug\netcoreapp3.1\ErtugrulGaziSari_BEChallenge.AssemblyInfoInputs.cache
+C:\Users\aerikmon\Desktop\BLG 252E OOP\ErtugrulGaziSari_BEChallenge\obj\Debug\netcoreapp3.1\ErtugrulGaziSari_BEChallenge.AssemblyInfo.cs
+C:\Users\aerikmon\Desktop\BLG 252E OOP\ErtugrulGaziSari_BEChallenge\obj\Debug\netcoreapp3.1\ErtugrulGaziSari_BEChallenge.csproj.CoreCompileInputs.cache
+C:\Users\aerikmon\Desktop\BLG 252E OOP\ErtugrulGaziSari_BEChallenge\obj\Debug\netcoreapp3.1\ErtugrulGaziSari_BEChallenge.dll
+C:\Users\aerikmon\Desktop\BLG 252E OOP\ErtugrulGaziSari_BEChallenge\obj\Debug\netcoreapp3.1\ErtugrulGaziSari_BEChallenge.pdb
+C:\Users\aerikmon\Desktop\BLG 252E OOP\ErtugrulGaziSari_BEChallenge\obj\Debug\netcoreapp3.1\ErtugrulGaziSari_BEChallenge.genruntimeconfig.cache

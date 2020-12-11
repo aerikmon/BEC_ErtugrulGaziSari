@@ -1,0 +1,11 @@
+customerID,orderID,customerName,customerEmail,orderPrice,orderQuantity,orderStatus,createdAt,updatedAt
+0812120101,12011111,Furkan Çelik,frkn@email.com,17,52,Processed,08/12/2020 15:35:05,08/12/2020 15:35:05
+0812120102,12011112,Emirhan Kurtul,emrhnkrtl@email.com,122,4,Updated,08/12/2020 15:35:05,09/12/2020 12:45:37
+0812120103,12011113,Rıdvan Özdemir,rdvn@email.com,16,55,Processed,08/12/2020 15:35:05,08/12/2020 15:35:05
+0812120104,12011114,Cüneyt Çağlayan,cnyt@email.com,10,15,Updated,08/12/2020 15:35:05,08/12/2020 15:43:48
+0812120105,12011115,Hüseyin Hilmi,hsynhlm@email.com,66,7,Updated,08/12/2020 15:35:05,10/12/2020 15:06:12
+0812120106,12011116,Ertuğrul Sarı,ertgrl@email.com,19,14,Updated,08/12/2020 15:35:05,10/12/2020 14:51:19
+0812120107,12017447,Talha Tacar,tlhtcr@email.com,85,67,Processed,08/12/2020 16:16:54,08/12/2020 16:16:54
+0812120108,12016851,Taha Tacar,thtcr@email.com,56,47,Processed,08/12/2020 16:18:51,08/12/2020 16:18:51
+1208163938,16394019,Ibrahim Arvas,ibrhm@email.com,77,66,Updated,08/12/2020 16:39:38,08/12/2020 23:29:52
+1208231141,23119743,Kadir Bal,kdrbl@email.com,65,87,Updated,08/12/2020 23:11:41,10/12/2020 14:45:02
